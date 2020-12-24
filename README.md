@@ -1,6 +1,6 @@
 # TLIxHypatia - Hypatia Summary Page Web App!
 
-Members in my team: Ali Syed, Sophy Sun, Ofek Gross, Zoha Rehan  
+Members in our team: Ali Syed, Sophy Sun, Jenny Ziyi Xu,Ofek Gross, Zoha Rehan  
 
 Creating a web application interface for elementary students to learn math. 
 
